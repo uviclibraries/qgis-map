@@ -8,7 +8,7 @@ parent: Workshop Activities
 
 Please review the following [Introductory Slides](https://docs.google.com/presentation/d/1-gvcF9LcYhw5ADkIC2Z1IQtdi_8916yN/edit?usp=sharing&ouid=110766142795672992274&rtpof=true&sd=true){:target="_blank"} 
 
-Download workshop data and PDF version of exercise instructions: [](https://maps.library.uvic.ca/IntroVectorDataQGIS.zip){:target="_blank"} 
+[Download](https://maps.library.uvic.ca/IntroVectorDataQGIS.zip){:target="_blank"} workshop data and PDF version of exercise instructions
 
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
