@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="C:\Users\gabriellewade\OneDrive - University of Victoria\Desktop\IntroVector_GitHub\Basics\QGIS_logo.png" style="float:right;width:180px;">
+<img src="QGIS_logo.png" style="float:right;width:180px;">
 
 # Introduction to Vector with *QGIS*
 
