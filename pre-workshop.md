@@ -4,6 +4,7 @@ title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## Pre-Workshop Activities
+<img src="QGIS_logo.png" style="float:right;width:180px;">
 This workshop is primarily hands-on practice with **QGIS** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 **Download QGIS** 3.40 Prizren Long Term Release-LTR: [](https://www.qgis.org/en/site/forusers/download.html){:target="_blank"}
