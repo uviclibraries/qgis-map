@@ -5,7 +5,7 @@ nav_order: 1
 parent: Workshop Activities
 ---
 # Hands-On Activities Introduction
-<img src="QGIS_logolonger.png" style="float:right;width:180px;">
+<img src="qgis_logolonger.png" style="float:right;width:180px;">
 Please review the following [Introductory Slides](https://docs.google.com/presentation/d/1-gvcF9LcYhw5ADkIC2Z1IQtdi_8916yN/edit?usp=sharing&ouid=110766142795672992274&rtpof=true&sd=true){:target="_blank"} 
 
 [Download](https://maps.library.uvic.ca/IntroVectorDataQGIS.zip){:target="_blank"} workshop data and PDF version of exercise instructions
