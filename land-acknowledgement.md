@@ -4,6 +4,7 @@ nav_order: 20
 title: Land acknowledgement 
 ---
 # Land acknowledgement
+<img src="Slide3_territorialack.png">
 
 We acknowledge the Indigenous lands where we are located.    
 
