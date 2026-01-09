@@ -13,7 +13,7 @@ nav_order: 1
 
 ## Why QGIS? 
 
-[QGIS]([https://qgis.org/download/){:target="_blank"} is a free, open source desktop Geographic Information Systems (GIS) package that allows users to analyze and edit spatial information and create and export maps.
+[QGIS]([https://qgis.org/download/) {:target="_blank"} is a free, open source desktop Geographic Information Systems (GIS) package that allows users to analyze and edit spatial information and create and export maps.
 
 ## This Workshop
 This introductory workshop will cover basic concepts in GIS and QGIS, and will include exercises on utilising vector data, adding styles and labels, filtering, and making a map. This workshop is designed to help students who are new to QGIS to understand and utilize some of the main features.
