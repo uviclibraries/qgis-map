@@ -3,8 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
-<img src="images/Screenshot 2025-09-29 114511.png" style="float:right;width:180px;">
+<img src="C:\Users\gabriellewade\OneDrive - University of Victoria\Desktop\IntroVector_GitHub\Basics\QGIS_logo.png" style="float:right;width:180px;">
 
 # Introduction to Vector with *QGIS*
 
@@ -14,17 +13,9 @@ nav_order: 1
 
 ## Why QGIS? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+[QGIS]([https://qgis.org/download/){:target="_blank"}
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
-
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
+QGIS is a free, open source geographic information system (GIS) software that allows users to analyze and edit spatial information and create and export maps.
 
 ## Learning objectives
 1. Distinguish between GIS and other web map interfaces
