@@ -12,6 +12,6 @@ Please go through the <a href="IntroductiontoVector_QGIS_Exercise.pdf" target="_
   Workshop Exercise
 </a>
 
-Work at your own pace
+Work at your own pace -there are **Check In** slides to ask for help (or ask sooner!)
 
-There are **Check In** slides to ask for help (or ask sooner)
+[NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
