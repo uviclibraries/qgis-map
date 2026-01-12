@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Save new project
+title: Workshop Exercise
 nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
@@ -10,16 +10,5 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="qgis_logolonger.png" style="float:right;width:180px;">
 Please go through the [Workshop Exercise](https://docs.google.com/presentation/d/1-gvcF9LcYhw5ADkIC2Z1IQtdi_8916yN/edit?usp=sharing&ouid=110766142795672992274&rtpof=true&sd=true){:target="_blank"} 
 
-[Download](https://maps.library.uvic.ca/IntroVectorDataQGIS.zip){:target="_blank"} workshop data and PDF version of exercise instructions
-
-
-
-
-
-
-
-- Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**UPDATE**
-[NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
+Work at your own pace
+There are **Check In** slides to ask for help (or ask sooner)
