@@ -6,12 +6,20 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-## Save new QGIS Project
-- In QGIS Menu Bar, select Project then Save As
-- Name your project “QGIS_Vector_Workshop”
-- Save your project as **.qgz** to where you can find it
+# Workshop Exercise
+<img src="qgis_logolonger.png" style="float:right;width:180px;">
+Please go through the [Workshop Exercise](https://docs.google.com/presentation/d/1-gvcF9LcYhw5ADkIC2Z1IQtdi_8916yN/edit?usp=sharing&ouid=110766142795672992274&rtpof=true&sd=true){:target="_blank"} 
 
-<img src="images/slide9_1.png">
-<img src="images/slide9_2.png">
+[Download](https://maps.library.uvic.ca/IntroVectorDataQGIS.zip){:target="_blank"} workshop data and PDF version of exercise instructions
 
-**Note:** .qgz is the project file format for *QGIS*
+
+
+
+
+
+
+- Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**UPDATE**
+[NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
