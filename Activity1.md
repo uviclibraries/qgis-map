@@ -11,7 +11,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Name your project “QGIS_Vector_Workshop”
 - Save your project as **.qgz** to where you can find it
 
-<img src="slide9_1.png">
-<img src="slide9_2.png">
+<img src="images/slide9_1.png">
+<img src="images/slide9_2.png">
 
 **Note:** .qgz is the project file format for *QGIS*
