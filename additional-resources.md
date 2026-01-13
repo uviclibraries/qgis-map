@@ -5,10 +5,11 @@ nav_order: 10
 ---
 # Resources going forward
 
-## QGIS -  used in workshop today
-- [QGIS Tutorials & Tips](https://www.qgistutorials.com/)
+## QGIS -  additional resources
 - [QGIS Training Manual](https://docs.qgis.org/3.40/en/docs/training_manual/index.html)
 - [QGIS User Guide](https://docs.qgis.org/3.40/en/docs/user_manual/index.html)
+- [QGIS Tutorials & Tips](https://www.qgistutorials.com/)
+
 
 ## Find data
 - [GeoSpatial Data Guide](http://libguides.uvic.ca/geospatialdata)
