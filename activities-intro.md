@@ -11,7 +11,7 @@ Please review the following <a href="IntroductiontoVector_QGIS_IntroductorySlide
 </a>
 
 
-[Download](https://maps.library.uvic.ca/IntroVectorDataQGIS.zip){:target="_blank"} workshop data and PDF version of exercise instructions
+[Download](images/IntrotoVector_QGIS_Data.zip){:target="_blank"} workshop data and PDF version of exercise instructions
 
 
 
