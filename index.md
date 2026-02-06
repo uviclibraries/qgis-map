@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="QGIS_logo.png" style="float:right;width:180px;">
+<img src="qgis_logolonger.png" style="float:right;width:180px;">
 
 # Introduction to Vector with *QGIS*
 
@@ -17,6 +17,15 @@ nav_order: 1
 
 ## This Workshop
 This introductory workshop will cover basic concepts in GIS and QGIS, and will include exercises on utilising vector data, adding styles and labels, filtering, and making a map. This workshop is designed to help students who are new to QGIS to understand and utilize some of the main features.
+
+### Note
+With *QGIS* someone could:
+- create beautiful maps
+and/or
+- conduct spatial analysis
+
+*QGIS* has hundreds of tools and possiblites...
+This workshop is an **Introduction** to *QGIS* with editing vector data
 
 ## Learning objectives
 1. Distinguish between GIS and other web map interfaces
